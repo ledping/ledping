@@ -23,4 +23,4 @@ Python, Django, OR-Tools, intégration de modèles de langage, RAG, JavaScript, 
 
 ## Contact
 
-mbosopsteve@gmail.com · LinkedIn : stevembosop
+mbosopsteve@gmail.com · [LinkedIn](https://www.linkedin.com/in/steve-mbosop-39987a180)
